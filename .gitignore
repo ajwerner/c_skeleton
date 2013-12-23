@@ -21,3 +21,14 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Mac things
+.DS_Store
+*.xcworkspace
+
+# CMake 
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
