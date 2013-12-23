@@ -24,7 +24,6 @@
 
 # Mac things
 .DS_Store
-*.xcworkspace
 
 # CMake 
 CMakeCache.txt
